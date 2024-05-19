@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "343934496024",
+    "project_id": "college-app-43f07",
+    "storage_bucket": "college-app-43f07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343934496024:android:f97264e1c17bdf2174026d",
+        "android_client_info": {
+          "package_name": "com.example.gmca_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Ch9g1d2jsMyiSUWDX9_jY-fuaTDwP4Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
